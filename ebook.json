@@ -1,0 +1,53 @@
+{
+  "title": "PhoneGap y JQueryMobile - Libro para desarrolladores",
+  "version": "0.0.1",
+  "author": {
+    "name": "Raül Pérez",
+    "email": "raul@web4linux.org",
+    "url": "http://www.web4linux.org"
+  },
+  "chapters": 
+  [
+    {
+      "name"    : "cover",
+      "file"    : "./src/cover.markdown",
+      "title"   : "Portada"
+    },
+    {
+      "name"    : "copyright",
+      "file"    : "./src/copyright.markdown",
+      "title"   : "CopyRight"
+    },
+    {
+      "name"    : "credits",
+      "file"    : "./src/credits.markdown",
+      "title"   : "Créditos"
+    },
+    {
+      "name"    : "author",
+      "file"    : "./src/author.markdown",
+      "title"   : "Autor"
+    },
+    {
+      "name"    : "toc",
+      "file"    : "./src/toc.markdown",
+      "title"   : "Tabla de contenidos"
+    },
+    {
+      "name"    : "preface",
+      "file"    : "./src/preface.markdown",
+      "title"   : "Prefacio"
+    },
+    {
+      "name"    : "chapter1-phonegap-installation",
+      "file"    : "./src/chapter1-phonegap-installation.markdown",
+      "title"   : "Capítulo 1 - Instalación de PhoneGap"
+    },
+    {
+      "name"    : "chapter2-jquerymobile-installation",
+      "file"    : "./src/chapter2-jquerymobile-installation.markdown",
+      "title"   : "Capítulo 2 - Instalación de JQueryMobile"
+    }
+  ],
+  "theme": "default"
+}
